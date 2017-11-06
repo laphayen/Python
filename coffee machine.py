@@ -36,4 +36,4 @@ while (base > 0):
 
     print(' ')
 
-print('다 팔렸어ㅋㅋ 내일 오셈ㅋㅋ')
+print('All sold out. Come on tomorrow.')
