@@ -11,6 +11,12 @@ while True:
     # 2잔 이상
     if money >= 600:
         cup = int(input('몇 잔을 드릴까요?'))
+        if cup > 10:
+            print('커피가 ', coffee, '잔 남았습니다.')
+            print('잔 수가 부족합니다.')
+            print('돈을 반환합니다.')
+            continue
+
         money = money - (price * cup)
         if money >= 0:
             coffee = (coffee - cup)
