@@ -32,7 +32,7 @@ Syntax Error는 파이썬의 일반적인 오류.
 
 ex)키워드 리스트 목록 출력하는 방법
 * import keyword
-* keyword.리스트명
+* keyword.kwlist
 
 ## 식별자
 
