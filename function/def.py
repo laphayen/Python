@@ -1,7 +1,8 @@
-def add x,y
- print(x)
- x=4
- print(x)
- return x*y
-x = add(2,3)
-print(add(1,x))
+# def
+# 함수 생성
+
+def count(number):
+    n = 1
+    while n <= number:
+        print(n)
+        n = n + 1
