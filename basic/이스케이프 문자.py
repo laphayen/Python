@@ -11,7 +11,11 @@ print('\'작은따옴표 출력')
 print("줄바꿈\n줄바꿈")
 
 # \t 탭
-print("\t탭 - 몇 칸인지는 니가 세봐")
+print("\t 탭")
+
+# \enter
+print("\
+    enter")
 
 # \\
 print("\\ 출력")
