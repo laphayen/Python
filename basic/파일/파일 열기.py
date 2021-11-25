@@ -17,5 +17,5 @@ f4 = open('img.jpg', 'rb')
 # 바이너리 모드로 읽기: wb
 f5 = open('img.jpg', 'wb')
 
-# 바이너리 모드로 파일 마직막에 추가: ab
+# 바이너리 모드로 파일 마지막에 추가: ab
 f6 = open('img.jpg', 'ab')
