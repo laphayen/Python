@@ -4,3 +4,4 @@
 
 f = open('text.txt', 'r')
 f.close()
+          
