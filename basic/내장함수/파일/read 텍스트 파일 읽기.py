@@ -1,6 +1,6 @@
 
 # read
-# 텍스 파일 읽기
+# 텍스트 파일 읽기
 
 f = open('test.txt', 'r')
 data = f.read()
